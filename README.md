@@ -9,7 +9,6 @@ This project analyzes historical S&P 500 data using Python to explore time serie
 • Visualize financial data using Python plotting tools
 
 ## Data Analysis Performed
-
 • Data loading and cleaning
 • Time series creation and indexing
 • Data manipulation using pandas
@@ -18,8 +17,8 @@ This project analyzes historical S&P 500 data using Python to explore time serie
 ## Tools & Libraries
 Python
 pandas – data manipulation and analysis
-matplotlib – financial data visualization
+matplotlib – data visualization
+seaborn – statistical data visualization
 
 ## Purpose
-
 This project demonstrates Python-based financial data analysis techniques commonly used in financial analytics, quantitative finance, and investment research.
