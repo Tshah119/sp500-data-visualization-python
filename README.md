@@ -1,23 +1,23 @@
 # S&P 500 Time Series Analysis
 
 ## Overview
-This project analyzes historical S&P 500 data using Python to explore time series behavior and visualize market trends. The analysis focuses on manipulating financial data and creating visualizations using pandas and matplotlib.
+This project analyzes historical S&P 500 data using Python to explore time series behavior and visualize market trends. The analysis focuses on financial data manipulation and visualization using pandas, matplotlib, and seaborn.
 
 ## Objectives
-• Load and manipulate financial time series data
-• Explore S&P 500 price trends over time
-• Visualize financial data using Python plotting tools
+• Load and manipulate financial time series data  
+• Explore S&P 500 price trends over time  
+• Visualize financial data using Python plotting libraries
 
 ## Data Analysis Performed
-• Data loading and cleaning
-• Time series creation and indexing
-• Data manipulation using pandas
-• Visualization of price trends using matplotlib
+• Data loading and cleaning  
+• Time series creation and indexing  
+• Data manipulation using pandas  
+• Visualization of price trends using matplotlib and seaborn
 
 ## Tools & Libraries
-Python
-pandas – data manipulation and analysis
-matplotlib – data visualization
+Python  
+pandas – data manipulation and analysis  
+matplotlib – data visualization  
 seaborn – statistical data visualization
 
 ## Purpose
